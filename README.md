@@ -1,10 +1,14 @@
 ## Algorithms
 
-I'm trying my best to write functions in multiple languages for different algorithms, with explanations even though I am a beginner programmer in all langauges and I'm doing this mostly to learn.
-
+I am trying my best to write functions in multiple languages for different algorithms including explanations.
 <br>
 
 ## All algorithms made so far:
 
-### Euclid's algorithm | In Python, Lua, JavaScript, Java, Rust, C++, C#, C
+|               Algorithm             | C | C# | C++ | Rust | Java | JavaScript | Python | Lua |
+|:-----------------------------------:|:-:|:--:|:---:|:----:|:----:|:----------:|:------:|:---:|
+|    [Euclid](#euclid's-algorithm)    |[x]|[x] | [x] | [x]  | [x]  |    [x]     |  [x]   | [x] |
+
+## Descriptions
+### Euclid's algorithm
 Given two positive integers m and n, find their greatest common divisor, that is, the largest positive integer that evenly divides both m and n. 

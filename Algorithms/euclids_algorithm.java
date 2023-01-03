@@ -6,7 +6,7 @@
 // 3. [Remainder n/m.] Divide n by m and let n be the remainder.
 // 4. [Is it zero?] If n = 0, the algorithm terminates; m is the answer; otherwise go back to step 1.
 
-public class Euclids_Algorithm {
+public class euclids_algorithm {
     public static int getGreatestCommonDivisor(int m, int n) {
         while (true) {
             m = m % n; // 1. [Remainder m/n.]
